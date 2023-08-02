@@ -1,0 +1,6 @@
+﻿  HashFunction.cpp
+C:\Users\gd182\source\repos\HashFunction\HashFunction\HashFunction.cpp(46,27): warning C4244: инициализация: преобразование "std::streamoff" в "unsigned int", возможна потеря данных
+C:\Users\gd182\source\repos\HashFunction\HashFunction\HashFunction.cpp(56,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\gd182\source\repos\HashFunction\HashFunction\HashFunction.cpp(60,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\gd182\source\repos\HashFunction\HashFunction\HashFunction.cpp(102,23): warning C4018: <: несоответствие типов со знаком и без знака
+  HashFunction.vcxproj -> C:\Users\gd182\source\repos\HashFunction\Debug\HashFunction.exe

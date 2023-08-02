@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HashFunction", "HashFunction\HashFunction.vcxproj", "{EEE2A556-F259-4825-AAC5-492E126906AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE2A556-F259-4825-AAC5-492E126906AC}.Debug|x64.ActiveCfg = Debug|x64
+		{EEE2A556-F259-4825-AAC5-492E126906AC}.Debug|x64.Build.0 = Debug|x64
+		{EEE2A556-F259-4825-AAC5-492E126906AC}.Debug|x86.ActiveCfg = Debug|Win32
+		{EEE2A556-F259-4825-AAC5-492E126906AC}.Debug|x86.Build.0 = Debug|Win32
+		{EEE2A556-F259-4825-AAC5-492E126906AC}.Release|x64.ActiveCfg = Release|x64
+		{EEE2A556-F259-4825-AAC5-492E126906AC}.Release|x64.Build.0 = Release|x64
+		{EEE2A556-F259-4825-AAC5-492E126906AC}.Release|x86.ActiveCfg = Release|Win32
+		{EEE2A556-F259-4825-AAC5-492E126906AC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47B67217-1FD9-408F-86A0-D576F0F02E10}
+	EndGlobalSection
+EndGlobal
